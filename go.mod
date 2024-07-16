@@ -1,4 +1,4 @@
-module open-hydra
+module open-hydra-server-api
 
 go 1.21.4
 

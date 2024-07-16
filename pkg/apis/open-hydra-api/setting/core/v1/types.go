@@ -1,7 +1,7 @@
 package v1
 
 import (
-	"open-hydra/pkg/open-hydra/apis"
+	"open-hydra-server-api/pkg/open-hydra/apis"
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )
