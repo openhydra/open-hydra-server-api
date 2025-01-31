@@ -34,6 +34,7 @@ type DeviceSpec struct {
 	DeviceStatus       string           `json:"deviceStatus,omitempty"`
 	GpuDriver          string           `json:"gpuDriver,omitempty"`
 	OpenHydraUsername  string           `json:"openHydraUsername,omitempty"`
+	OpenHydraUserId    string           `json:"openHydraUserId,omitempty"`
 	OpenHydraProjectId string           `json:"openHydraProjectId,omitempty"`
 	Role               int              `json:"role,omitempty"`
 	ChineseName        string           `json:"chineseName,omitempty"`
